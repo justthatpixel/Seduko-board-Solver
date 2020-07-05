@@ -1,3 +1,2 @@
 # Seduko-board-Solver
-
-Picks a random number betwen 1 and 3, and solves the seduko board.
+Code picks a random soduko board and solves the board.
